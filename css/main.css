@@ -1,0 +1,91 @@
+ul.menu li{
+    display: inline-block;
+}
+.menu li.input-caja{
+    border-radius: 5px;
+    outline: 1px solid purple;
+    display: inline-block;
+    background-color: #EFEFEF;
+    width: 70%;
+    margin: 10px 26px;
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    left: 45px;
+}
+  
+.menu .input-caja .caja-lupa input{
+    width: 85%;
+    background-color: inherit;
+    border: 0;
+}
+  
+ul li img{
+    width: 60px;
+    margin: 0;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+ul.menu li{
+    text-decoration: none;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+.menu .input-caja .caja-lupa input{
+    width: 93%;
+    line-height: 20px;
+    font-size: 18px;
+}
+  
+ul.menu div.caja-pins span i{
+    left: 250px;
+}
+
+ul.menu div.caja-pins span {
+    position: relative;
+    left: 800px;
+    bottom: 20px;
+  }
+
+.botones{
+    display: inline-block;
+    margin-left: 60px;
+    color: #fff;
+    padding: 20px 25px;
+    font-weight: 700;
+    border-radius: 6px;
+}
+.botones-1{
+    background-color: rgba(150,110,75,.8);
+}
+.botones-2{
+    background-color: rgba(194,149,110,.5);
+}
+.botones-3{
+    background-color: rgba(139, 87, 41, 0.8);
+}
+.botones-4{
+    background-color: rgba(122, 81, 44, 0.8);
+}
+.botones-5{
+    background-color: rgba(204, 103, 15, 0.8);
+}
+.botones-6{
+    background-color: rgba(38, 191, 211, 0.8);
+}
+.botones-7{
+    background-color: rgba(204, 113, 212, 0.8);
+}
+.img{
+    display: inline-block;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+}
+.section{
+    column width:80px;
+}
